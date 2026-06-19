@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "postinstall": "npm install simplelightbox"
+  },
   "name": "vanilla-app-template",
   "private": true,
   "version": "1.0.0",
